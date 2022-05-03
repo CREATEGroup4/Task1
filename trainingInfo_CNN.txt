@@ -8,7 +8,7 @@ Data balanced: False
 Loss function: categorical_crossentropy
 
 Training Statistics: 
-	Final training loss: 0.024923279881477356
-	Final training accuracy: 0.9925742745399475
-	Final validation loss: 0.8909067511558533
-	Final validation accuracy: 0.8179319500923157
+	Final training loss: 0.024756846949458122
+	Final training accuracy: 0.9927830100059509
+	Final validation loss: 0.7078759670257568
+	Final validation accuracy: 0.8525502681732178
