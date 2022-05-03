@@ -1,0 +1,14 @@
+
+Network type: CNN
+Data CSV: /home/jovyan/Documents/Training_Data/Training_Data.csv
+Number of Epochs: 4
+Batch size: 8
+Learning rate: 1e-05
+Data balanced: False
+Loss function: categorical_crossentropy
+
+Training Statistics: 
+	Final training loss: 0.024923279881477356
+	Final training accuracy: 0.9925742745399475
+	Final validation loss: 0.8909067511558533
+	Final validation accuracy: 0.8179319500923157
